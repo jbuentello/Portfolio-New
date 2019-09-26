@@ -4,7 +4,8 @@ body {
 
 .mainContainer {
     align-content: center;
-    text-align: center; 
+	text-align: center; 
+	margin-bottom: 150px;
 }
 
 .jumbotron {
