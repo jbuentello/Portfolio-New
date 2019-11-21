@@ -12,7 +12,8 @@ body {
     text-align: center;
     background: none;
     color: silver;
-    font: bolder;
+		font: bolder;
+		
 }
 
 .containerBoxes {
@@ -20,6 +21,7 @@ body {
 }
 
 button {
+	
     background: white;
     text-align: center;
     padding: 0px;
